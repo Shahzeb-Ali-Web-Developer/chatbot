@@ -11,7 +11,7 @@ This is a simple, offline FAQ chatbot that responds to predefined questions and 
 
 ## Demo
 
-![Chatbot Demo Screenshot](https://github.com/Shahzeb-Ali-Web-Developer/chatbot/blob/Shahzeb-Ali-Web-Developer/resources/Chatbot.png)
+![Chatbot Demo Screenshot](https://github.com/Shahzeb-Ali-Web-Developer/chatbot/blob/Shahzeb-Ali-Web-Developer/resources/demo.png)
 
 ## Requirements
 
