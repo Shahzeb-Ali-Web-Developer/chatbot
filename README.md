@@ -1,6 +1,6 @@
-# Offline FAQ Chatbot
+# AI Chatbot
 
-This is a simple, offline FAQ chatbot that responds to predefined questions and answers using sentence similarity. It’s implemented in Python and uses the `sentence-transformers` library to find the best answer match based on user input.
+This is a offline AI chatbot that responds to predefined questions and answers using sentence similarity. It’s implemented in Python and uses the `sentence-transformers` library to find the best answer match based on user input.
 
 ## Features
 
@@ -39,3 +39,14 @@ Run the chatbot by executing the following command:
 
 ```bash
 python offline_chatbot.py
+```
+
+
+## Contributing
+
+Contributions are welcome! If you'd like to help improve this project.
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
